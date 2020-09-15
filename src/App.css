@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+.login-container {
+  background-color: #f2f2f2;
+  height: 300px;
+  padding: 0px;
+}
+.color-nav {
+  background-color: #17a2b8;
+}
+.chat-input-group {
+  width: 80%;
+  margin-left: 10%;
+}
+.chat-input-field:focus{
+  margin-top: 2px;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  border: 0px;
+}
+.chat-input-field {
+  margin-top: 2px;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  border: 0px;
+}
+.chat-input-group:focus {
+  border: 0px;
+}

@@ -1,0 +1,60 @@
+{
+  "userData": [
+    {
+      "name": "Virat Kohli",
+      "email": "virat@gmail.com",
+      "team": "RCB",
+      "checked": false,
+      "chatData": []
+    },
+    {
+      "name": "Rohit Sharma",
+      "email": "rohit@gmail.com",
+      "team": "MI",
+      "checked": false,
+      "chatData": []
+    },
+    {
+      "name": "KL Rahul",
+      "email": "klrahul@gmail.com",
+      "team": "KXIP",
+      "checked": false,
+      "chatData": []
+    },
+    {
+      "name": "MS Dhoni",
+      "email": "msd@gmail.com",
+      "team": "CSK",
+      "checked": false,
+      "chatData": []
+    },
+    {
+      "name": "Shreyas Iyyer",
+      "email": "shreyas@gmail.com",
+      "team": "DC",
+      "checked": false,
+      "chatData": []
+    },
+    {
+      "name": "Dinesh Karthik",
+      "email": "dk@gmail.com",
+      "team": "KKR",
+      "checked": false,
+      "chatData": []
+    },
+    {
+      "name": "David Warner",
+      "email": "warner@gmail.com",
+      "team": "SRH",
+      "checked": false,
+      "chatData": []
+    },
+    {
+      "name": "Steve Smith",
+      "email": "spdsmith@gmail.com",
+      "team": "RR",
+      "checked": false,
+      "chatData": []
+    }
+  ]
+}
